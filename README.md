@@ -1,1 +1,1 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=hhyasdf&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=hhyasdf&show_icons=true&hide_border=true)![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyasdf&layout=compact&theme=buefy&hide_border=true)
